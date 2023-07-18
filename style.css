@@ -1,0 +1,50 @@
+.btn-danger {
+    background-color: #bc5008;
+}
+
+.accordion-button {
+    background-color: red;
+    color: white;
+}
+
+
+.bg-custom {
+    background: linear-gradient(45deg, red 0%, blue 100%);
+}
+
+.btn {
+    margin: 2px;
+}
+
+.btn-pink {
+    background-color: pink;
+}
+
+.dropdown-item {
+    color: red;
+}
+
+.dropdown-item:hover {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    border: 0;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+    box-shadow: 1px 1px 3px gray;
+}
+
+.card .card-body {
+    text-align: center;
+}
+
+.card .card-text, .card .card-title {
+    text-align: center;
+}
+
